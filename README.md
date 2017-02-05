@@ -13,7 +13,9 @@ This project includes the following libraries (and their dependencies) each with
 ## Installation
 
 run composer install
+
 cp .env.example .env
+
 edit the new .env file, variable names are pretty clear on what they represent
 
 ## Usage
