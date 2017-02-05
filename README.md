@@ -22,7 +22,7 @@ edit the new ``.env`` file, variable names are pretty clear on what they represe
 
 Please check the documentation for each of the above libraries used.
 
-Inside existing ``index.php`` you can find examples of usage, authentication, validations, responses, querying the DB.
+Inside existing ``index.php`` you can find examples of usage, JWT authentication, simple auth middleware, validations, responses, querying the DB.
 In this file you can also specify the time zone for manipulating date/time variables.
 At need this can be moved as a setting in the ``.env`` file.
 

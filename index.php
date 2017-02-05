@@ -19,16 +19,6 @@
 	$global['ver'] = getenv('APP_VER');
 	$pdo = new PDO("mysql:dbname=". getenv("DB_NAME"), getenv("DB_USER"), getenv("DB_PASS"));
 	$global['db'] = new FluentPDO($pdo);
-	$global['residency_positions'] = array(
-		0 => 'Director si Indrumator de rezidentiat',
-		1 => 'Director program rezidentiat',
-		2 => 'Indrumator de rezidentiat',
-		3 => 'Rezident',
-	);
-	$global['tip_efectuare_procedura'] = array(
-		0 => 'Operator',
-		1 => 'Asistare',
-	);
 
 	/**************************************************************************************************************
 	Global data - will be outputted on each call/reasponse
