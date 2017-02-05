@@ -30,5 +30,6 @@ At need this can be moved as a setting in the ``.env`` file
 
 This is just a simple bundle to create an API using other libraries that I found being maintained and reliable at the date of this push.
 
-I think is better and I alway go in new projects on using modern frameworks, but at the time of trying this, it was more useful.
+I think is better and I always go in new/fresh projects on using modern frameworks, but at the time of trying this, it was more useful.
+
 Reasons for taking this decision: creating the API using a modern framework (I thought of Lumen and Laravel) would require a lot of model changes, workarounds to make it work easier and maintainable in Laravel style, and for this I consider the fact that the API I had to write was based on an old web application written years ago in plain PHP with no resources (financial and time implied here) to upgrade its code base in such a way that would make the web app and API use a modern framework.
