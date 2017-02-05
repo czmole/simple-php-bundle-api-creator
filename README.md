@@ -26,7 +26,7 @@ Inside existing ``index.php`` you can find examples of usage, authentication, va
 In this file you can also specify the time zone for manipulating date/time variables.
 At need this can be moved as a setting in the ``.env`` file.
 
-## VERY IMPORTANT {% octicon alert %}
+## :exclamation::exclamation::exclamation: VERY IMPORTANT :exclamation::exclamation::exclamation:
 
 **This is just a simple bundle to create an API using other libraries that I found being maintained and reliable at the date of this push.**
 
