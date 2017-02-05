@@ -1,4 +1,4 @@
-# Simple PHP libraries bundle to create simple API
+# Simple PHP libraries bundle to create an API
 
 This project includes the following libraries (and their dependencies) each with their license:
 - https://github.com/firebase/php-jwt
