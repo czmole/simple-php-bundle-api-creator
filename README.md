@@ -28,8 +28,6 @@ At need this can be moved as a setting in the ``.env`` file.
 
 ## VERY IMPORTANT
 
-![alt text](http://inductions.xstratacoal.com.au/images/attention.png"Logo Title Text 1") 
-
 **This is just a simple bundle to create an API using other libraries that I found being maintained and reliable at the date of this push.**
 
 **I think is better and I always go in new/fresh projects on using modern frameworks, but at the time of trying this, it was more useful.**
